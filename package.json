@@ -1,0 +1,28 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "something that describes this practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "foo",
+    "build": "mkdir -p dist && cp index.js dist"
+  },
+  "release": {
+    "branches": "main"
+   },   
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srambach/practice-github-actions.git"
+  },
+  "keywords": [
+    "key",
+    "lock",
+    "blah"
+  ],
+  "author": "Sarah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srambach/practice-github-actions/issues"
+  },
+  "homepage": "https://github.com/srambach/practice-github-actions#readme"
+}
